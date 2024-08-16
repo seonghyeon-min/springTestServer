@@ -1,7 +1,7 @@
 # springTestServer
-spring_develope_Test_Server
+spring Development Test Server
 
 
-## 0. set up the enviro. 
- 1. java 17 (JDK 17)
+## 0. set up the environment. 
+ 1. java install
  2. Use intellij IDE 
